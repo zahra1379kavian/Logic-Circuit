@@ -1,3 +1,3 @@
 # Logic-Circuit
-Verilog Language
+Proteus Software
 These are my Logic Circuit course homework.
